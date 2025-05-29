@@ -24,3 +24,8 @@ Varje fredag kl. 09:00 UTC körs ett GitHub Actions workflow (`.github/workflows
 - Lägger till placeholder-titel och innehåll
 
 A fullständig lista på planerade publiceringsdatum finns i [schedule.md](schedule.md).
+För att testa generering manuellt:
+
+- Gå till fliken **Actions** i ditt GitHub-repo
+- Välj **Generate Weekly AI-Tips Post**
+- Klicka **Run workflow** och bekräfta
