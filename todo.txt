@@ -1,0 +1,34 @@
+Veckans AI-tips - To-Do Lista
+
+Setup av webbplats:
+- [ ] Skapa Git-repo för "Veckans AI-tips"
+- [ ] Initiera grundstruktur (index.html, css/, js/)
+- [ ] Lägg till grundläggande layout och navigering
+- [ ] Skapa stilark (styles.css) för responsiv design
+- [ ] Konfigurera hosting (t.ex. GitHub Pages eller egen server)
+
+Innehållshantering & arbetsflöde:
+- [ ] Välj ett format för inlägg (Markdown eller HTML-templates)
+- [ ] Skapa mapp "posts/" för veckoinlägg
+- [ ] Skriv ett enkelt script eller konfigurera GitHub Actions för att publicera nytt inlägg varje fredag kl. 09:00
+
+Publiceringsplan:
+- [ ] 30 maj 2025: Publicera Veckans AI-tips #1 (jobb eller privat användning)
+- [ ] 6 juni 2025: Publicera Veckans AI-tips #2
+- [ ] 13 juni 2025: Publicera Veckans AI-tips #3
+- [ ] Planera inlägg fram till årsskiftet (lista datum t.o.m. 26 december 2025)
+
+Content-skrivning:
+- [ ] Skapa mall för bloggpost: titel, datum, kort beskrivning, tipsinnehåll
+- [ ] Förbered exempelbilder eller screenshots vid behov
+- [ ] Skriv och granska varje veckas AI-tips
+
+Marknadsföring & uppföljning:
+- [ ] Dela varje inlägg på sociala medier (Twitter, LinkedIn)
+- [ ] Implementera enkät eller kommentarssystem för feedback
+- [ ] Analysera besöksstatistik månadsvis
+
+Underhåll:
+- [ ] Uppdatera script för publicering vid behov
+- [ ] Granska och revidera tidigare inlägg kvartalsvis
+- [ ] Säkerhetskopiera webbplats och data regelbundet

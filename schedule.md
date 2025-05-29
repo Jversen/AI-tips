@@ -1,0 +1,34 @@
+# Publiceringsplan 2025 - Veckans AI-tips
+
+Lista över fredagar när inlägg publiceras:
+- 30 maj 2025
+- 6 juni 2025
+- 13 juni 2025
+- 20 juni 2025
+- 27 juni 2025
+- 4 juli 2025
+- 11 juli 2025
+- 18 juli 2025
+- 25 juli 2025
+- 1 augusti 2025
+- 8 augusti 2025
+- 15 augusti 2025
+- 22 augusti 2025
+- 29 augusti 2025
+- 5 september 2025
+- 12 september 2025
+- 19 september 2025
+- 26 september 2025
+- 3 oktober 2025
+- 10 oktober 2025
+- 17 oktober 2025
+- 24 oktober 2025
+- 31 oktober 2025
+- 7 november 2025
+- 14 november 2025
+- 21 november 2025
+- 28 november 2025
+- 5 december 2025
+- 12 december 2025
+- 19 december 2025
+- 26 december 2025

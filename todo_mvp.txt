@@ -1,0 +1,20 @@
+Veckans AI-tips - Prioriterad MVP To-Do Lista
+
+P1 - MVP (Obligatoriskt för lansering)
+- [x] Skapa Git-repo för "Veckans AI-tips"
+- [x] Initiera grundstruktur: index.html, css/, js/
+- [x] Lägg till enkel layout för att visa inlägg
+- [x] Skapa mapp posts/ och minimal mall för inlägg
+- [x] Skapa första inlägget för 30 maj 2025 (manuellt)
+- [x] Konfigurera hosting (t.ex. GitHub Pages)
+
+P2 - Nästa steg (valfritt men rekommenderat)
+- [x] Skapa styles.css för grundläggande styling
+- [x] Skriv enkelt script för automatisk publicering med GitHub Actions
+- [x] Planera publiceringsplan för kommande datum
+
+P3 - Framtida förbättringar
+- [ ] Lägg till sociala delningsknappar
+- [ ] Implementera kommentar-/feedback-system
+- [ ] Ställ in analys (Google Analytics eller liknande)
+- [ ] Säkerhetskopiera webbplats regelbundet
